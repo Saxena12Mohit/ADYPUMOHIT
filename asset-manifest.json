@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ADYPUMOHIT/static/css/main.073c9b0a.css",
+    "main.js": "/ADYPUMOHIT/static/js/main.e321736e.js",
+    "static/js/787.32d91862.chunk.js": "/ADYPUMOHIT/static/js/787.32d91862.chunk.js",
+    "static/media/logo.svg": "/ADYPUMOHIT/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ADYPUMOHIT/index.html",
+    "main.073c9b0a.css.map": "/ADYPUMOHIT/static/css/main.073c9b0a.css.map",
+    "main.e321736e.js.map": "/ADYPUMOHIT/static/js/main.e321736e.js.map",
+    "787.32d91862.chunk.js.map": "/ADYPUMOHIT/static/js/787.32d91862.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e321736e.js"
+  ]
+}
